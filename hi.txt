@@ -1,0 +1,50 @@
+Create a modern, production-ready Flutter app in a single main.dart file.
+
+Requirements:
+
+* Use clean architecture and well-structured code (but keep it in one file).
+* Use modern UI/UX design similar to real apps (smooth, minimal, premium look).
+* Use Material 3 design system.
+* Add proper spacing, rounded corners, shadows, and gradient colors.
+* Use a consistent color theme (primary, secondary, background).
+
+UI Features:
+
+* AppBar with modern styling
+* Bottom Navigation Bar (3–5 tabs)
+* Side Drawer (hamburger menu) with user profile section
+* Responsive layout (works on different screen sizes)
+* Cards with elevation and modern UI
+* Grid/List layout depending on content
+* Floating Action Button (if relevant)
+
+Functionality:
+
+* Dynamic data using List and Map (no hardcoding UI)
+* Navigation between screens
+* State management using setState (simple)
+* Reusable widgets where possible
+
+Animations:
+
+* Add subtle animations (Hero, AnimatedContainer, or fade transitions)
+
+Customization:
+Make the app for this domain: eCommerce 
+
+Include:
+
+* Dummy data relevant to the domain
+* At least 2–3 screens (Home, Details, Cart/Profile/etc.)
+* Proper UI for each screen
+
+Extra:
+
+* Use icons and images (network images if needed)
+* Keep code readable and well-commented
+* Avoid unnecessary complexity but maintain modern standards
+
+Output:
+
+* Only provide main.dart code
+* Ensure it runs without errors
